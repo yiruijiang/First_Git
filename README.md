@@ -1,2 +1,1 @@
-# First_Git
-My First Repository on Git
+This is a brief demo for pcl qt framework.
